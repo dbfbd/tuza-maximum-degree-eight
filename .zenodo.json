@@ -1,0 +1,20 @@
+{
+  "title": "Verification archive for Tuza's conjecture at maximum degree eight",
+  "upload_type": "software",
+  "description": "Exact orbit catalogue, local reducibility certificates, standalone verifiers, and a computer-assisted preprint extending the known maximum-degree-seven result for Tuza's triangle packing-covering conjecture to maximum degree eight.",
+  "creators": [
+    {
+      "name": "Xu, Yang"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "Tuza's conjecture",
+    "triangle packing",
+    "triangle covering",
+    "graph theory",
+    "computer-assisted proof"
+  ]
+}
+

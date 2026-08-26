@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software or its certificate catalogue, please cite it as below."
+title: "Verification archive for Tuza's conjecture at maximum degree eight"
+type: software
+authors:
+  - family-names: Xu
+    given-names: Yang
+version: 0.1.0
+date-released: 2026-08-27
+license: MIT
+keywords:
+  - Tuza's conjecture
+  - triangle packing
+  - triangle covering
+  - graph theory
+  - computer-assisted proof
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Xu
+      given-names: Yang
+  title: "Tuza's conjecture for graphs of maximum degree at most eight"
+  year: 2026
+
