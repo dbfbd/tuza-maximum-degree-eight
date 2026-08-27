@@ -24,7 +24,9 @@ contains:
 
 All positive certificates have passed standalone verifiers that use only
 exact integer and set operations.  The full orbit catalogue was regenerated
-byte for byte.
+byte for byte.  A fresh end-to-end cross-check, including the complete
+verification suite for the maximum-degree-seven dependency, is recorded in
+[`AUDIT.md`](AUDIT.md).
 
 ## Paper
 
@@ -80,5 +82,4 @@ finite claims do not depend on trusting a language model or an optimizer.
 Until an archival identifier is assigned, cite this repository as:
 
 > Yang Xu, "Tuza's conjecture for graphs of maximum degree at most eight,"
-> computer-assisted preprint and verification archive, version 0.1.0, 2026.
-
+> computer-assisted preprint and verification archive, version 0.1.1, 2026.

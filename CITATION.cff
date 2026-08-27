@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: Xu
     given-names: Yang
-version: 0.1.0
+version: 0.1.1
 date-released: 2026-08-27
 license: MIT
 keywords:
@@ -21,4 +21,3 @@ preferred-citation:
       given-names: Yang
   title: "Tuza's conjecture for graphs of maximum degree at most eight"
   year: 2026
-

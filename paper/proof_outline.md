@@ -116,7 +116,7 @@ degrees agree.
 **Finite Lemma 2.** Under the conditions above, \(\{u,v\}\) is reducible
 except for two local graphs.  Both exceptions have
 \[
-c=4,quad |A|=|B|=3,quad G[C]\text{ edgeless},
+c=4,\quad |A|=|B|=3,\quad G[C]\text{ edgeless},
 \]
 and each exclusive side induces a triangle whose three vertices have the
 same two neighbours in \(C\).  Up to isomorphism, the two cases correspond
