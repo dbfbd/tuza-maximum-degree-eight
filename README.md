@@ -1,5 +1,7 @@
 # Tuza's conjecture for graphs of maximum degree at most eight
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22124333.svg)](https://doi.org/10.5281/zenodo.22124333)
+
 This repository accompanies Yang Xu's computer-assisted preprint proving
 Tuza's triangle packing-covering conjecture for every graph of maximum degree
 at most eight.
@@ -79,7 +81,9 @@ finite claims do not depend on trusting a language model or an optimizer.
 
 ## Citation
 
-Until an archival identifier is assigned, cite this repository as:
+The archival release is available at
+[doi:10.5281/zenodo.22124333](https://doi.org/10.5281/zenodo.22124333).
+Cite it as:
 
 > Yang Xu, "Tuza's conjecture for graphs of maximum degree at most eight,"
 > computer-assisted preprint and verification archive, version 0.1.2, 2026.
